@@ -8,8 +8,6 @@ tags:
   - php
 ---
 
-# Basics of database
-
 ## Connecting a localhost
 
 ### for linux using ubuntu

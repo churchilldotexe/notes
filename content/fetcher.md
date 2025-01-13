@@ -8,8 +8,6 @@ tags:
   - typescript
 ---
 
-# Fetcher
-
 A simple JSON fetch utility that validates the response from your API that also returns an error to make sure that error is being handled properly. It was tested with _Vitest_ for the unit testing for its use cases and integration test with **JSON place holder api**.
 
 ### USAGE
