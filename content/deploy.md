@@ -710,6 +710,7 @@ code instruction:
    - and root to the project directory.(/var/www/html/project-name)
 
    > [!TIP]
+   >
    > If you're using your domain for the server_name also add the www version of the domain for better coverage (www.example.com)
 
 4. create a symlink to sites-enabled directory
