@@ -822,4 +822,8 @@ then change the ownership of the file
 sudo chown <user> config
 ```
 
+### Sources and links
+
 For the updated and detaild commands for vps setup check out [this github](https://github.com/glennraya/server-setup/blob/main/Commands.txt)
+
+[Video guide from glenn raya](https://www.youtube.com/watch?v=bGuJ6ONHjuE)
